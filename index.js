@@ -107,4 +107,4 @@ client.distube
   .on('finish', queue => queue.textChannel.send('Finished!'))
 
 
-client.login(process.env.token)
+client.login(MTA2NjgwNDU3NzIxMjU3MTc0MA.G0tT90.8LaJEDqfveeGP7vL6NMKTgRCnIC0TsWiBnL4uc)
